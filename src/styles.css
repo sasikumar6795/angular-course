@@ -2,3 +2,14 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: 'Roboto', sans-serif; }
+
+
+course-card.is-first {
+    border-top: 2px solid grey;
+    padding-top: 20px;
+}
+
+course-card.is-last {
+    border-top: 2px solid grey;
+    padding-top: 20px;
+}
